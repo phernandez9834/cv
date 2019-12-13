@@ -1,0 +1,38 @@
+  body {
+    background-color: #303841;
+    align-items: center;
+  }
+
+  h1 {
+    color: #00adb5;
+  }
+
+  h2 {
+    color: #eeeeee;
+  }
+
+  h3 {
+    color: #eeeeee;
+  }
+
+  li {
+    color: #eeeeee;
+    width: 100%;
+  }
+
+  table {
+    color: #eeeeee;
+    text-align: left;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #ff5722;
+    border-width: 10px;
+    width: 25%;
+  }
+
+  a {
+    color: #00adb5;
+  }
